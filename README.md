@@ -114,7 +114,7 @@ Add a screenshot or short demo gif here!
 
 📱 Convert into mobile app (Kivy / React Native)
 
-📊 Expression history & log
+
 
 
 
