@@ -89,4 +89,32 @@ Consecutive ops like ++, //
 Unbalanced ) without matching (
 
 Starts with *, /, +
+ 📦 How to Run
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install opencv-python mediapipe pyttsx3
+Run the script:
+
+bash
+Copy
+Edit
+python gesture_calculator.py
+Note: Text-to-speech uses PowerShell (works best on Windows)
+
+📷 Screenshot
+Add a screenshot or short demo gif here!
+
+🚀 Future Scope
+🎙️ Voice Input Toggle (Already added separately)
+
+🧑‍🎨 Add emoji or animated face reactions on results
+
+📱 Convert into mobile app (Kivy / React Native)
+
+📊 Expression history & log
+
+
 
