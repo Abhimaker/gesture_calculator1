@@ -112,6 +112,8 @@ Add a screenshot or short demo gif here!
 
 🧑‍🎨 Add emoji or animated face reactions on results
 
+📊 Expression history & log
+
 📱 Convert into mobile app (Kivy / React Native)
 
 
